@@ -1,4 +1,6 @@
 tensorflow
 streamlit
 numpy
-pillow
+Pillow
+scipy
+scikit-image
